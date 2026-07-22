@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jupyter
 .ipynb_checkpoints/
 
@@ -10,3 +11,17 @@ venv/
 # OS
 Thumbs.db
 desktop.ini
+=======
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+desktop.ini
+>>>>>>> 6ffbae8a5a6f524ea38b9425a399de310d73e6d9
